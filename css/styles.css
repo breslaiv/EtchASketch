@@ -1,0 +1,25 @@
+.main-container {
+    background-color: lightgray;
+    display: flex;
+    margin-left: 50px;
+    display: grid;
+}
+.div-container{
+    background-color: white;
+    width: 960px;
+    height: 780px;
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid black;
+
+    display: grid
+}
+
+.div-drawable {
+    background-color: whitesmoke;
+    /* border: 1px solid black; */
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+}
